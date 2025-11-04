@@ -1,0 +1,26 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz para programadores</title>
+    <meta name="discription" content="um quiz interativo para testar seus conhecimentos">
+
+</head>
+<body>
+<header>
+    <h1>Quiz interativo para programadores</h1>
+    <p>Teste seus conhecimentos em programação e veja qual puntação voce consegue fazer</p>
+</header>
+<main>
+    <section>
+        <h2>Sobre este quiz</h2>
+        <p><strong>Este quiz</strong> foi  densenvolvido para testar seus conhecimentos em programação, como conceitos basicos de programação conceitos basicos e mais</p>
+        <p>Você encontrará diferentes <i>tipos</i>de perguntas incluido, mutipla escolha texto e perguntas sobre datas.Disafia-se com este quiz!</p>
+        <p>Você poderá encontrar alguns acronimos como html e css, que são comumente usados para questões relacionadas ao desenvolvimento web</p>
+    </section>
+</main>
+<footer></footer>
+</body>
+</html>
